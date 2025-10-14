@@ -19,8 +19,8 @@
 
 ## Посилання
 
-- [[Жива сторінка](https://sonaneir.github.io/pineapple-AUK/)]  
-- [[Репозиторій](https://github.com/sonaneir/pineapple-AUK.git)]
+- Жива сторінка: [[PineApple WebPage](https://sonaneir.github.io/pineapple-AUK/)]  
+- Репозиторій: [[PineApple Repo](https://github.com/sonaneir/pineapple-AUK.git)]
 
 ## Технології
 
