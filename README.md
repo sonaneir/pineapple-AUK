@@ -20,7 +20,7 @@
 ## Посилання
 
 - Жива сторінка: [Вставте сюди посилання на GitHub Pages]  
-- Репозиторій: [(https://github.com/sonaneir/pineapple-hakaton-AUK-description.git)]
+- Репозиторій: [https://github.com/sonaneir/pineapple-hakaton-AUK-description.git]
 
 ## Технології
 
