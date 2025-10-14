@@ -19,7 +19,7 @@
 
 ## Посилання
 
-- Жива сторінка: [(https://sonaneir.github.io/pineapple-AUK/)]  
+- Жива сторінка: [https://sonaneir.github.io/pineapple-AUK/]  
 - Репозиторій: [https://github.com/sonaneir/pineapple-hakaton-AUK-description.git]
 
 ## Технології
